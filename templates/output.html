@@ -1,0 +1,10 @@
+<html>
+<head>
+  <title>Home page</title>
+  <form method = 'POST' action = " ">
+  <p>Data taken from MySQL</p>
+    {% for line in response %}
+      <p>{{ line }}</p>
+    {% endfor %}
+  </form>
+</html>
