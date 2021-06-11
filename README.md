@@ -17,7 +17,7 @@
 2. Input Data Flow
 ![Input_Data](https://user-images.githubusercontent.com/67454437/121729092-b499f700-cb0b-11eb-9817-fe54d68eeecf.png)
 3. Output Data Flow
-![Output](https://user-images.githubusercontent.com/67454437/121729140-c11e4f80-cb0b-11eb-97eb-6cb3c30276d8.png)
+![Output](https://user-images.githubusercontent.com/67454437/121729966-b1533b00-cb0c-11eb-81b2-e2a22f333105.png)
 
 ## File details-
 
@@ -56,12 +56,11 @@
 
 1. It writes data to new page.
 
-File running sequence
+## File running sequence
 
 1. recieve.py
 2. text_transfer.py
 3. form.py
-
-For more detail, check out file Program_Flow.pdf
+4. For more detail, check out file Program_Flow.pdf
  
 
